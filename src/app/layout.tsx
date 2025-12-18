@@ -13,9 +13,9 @@ export const metadata: Metadata = {
   title: "Brew Haven - Specialty Coffee Shop",
   description: "Discover freshly roasted, single-origin coffee and handcrafted beverages at Brew Haven. Visit our cozy cafe for community, quality, and exceptional coffee.",
   keywords: "coffee shop, specialty coffee, cafe, artisan coffee, local coffee",
-  metadataBase: new URL('https://brewhaven.com'),
+  metadataBase: new URL("https://brewhaven.com"),
   alternates: {
-    canonical: 'https://brewhaven.com'
+    canonical: "https://brewhaven.com"
   },
   openGraph: {
     title: "Brew Haven - Premium Coffee Shop",

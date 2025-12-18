@@ -50,7 +50,7 @@ export default function LandingPage() {
         <MediaSplitAbout
           title="Crafted with Passion"
           description="Since 2018, Brew Haven has been serving our community with ethically sourced, single-origin coffee roasted in-house. Every cup reflects our commitment to quality, sustainability, and creating a welcoming space where neighbors become friends."
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766070580900-njd88avn.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766070767150-aqclt3cx.jpg"
           imageAlt="Skilled barista preparing specialty coffee"
           buttons={[
             {
@@ -121,7 +121,7 @@ export default function LandingPage() {
               "Regular events and community building",
               "Premium quality at fair prices"
             ],
-            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766070580900-njd88avn.jpg",
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766070767150-aqclt3cx.jpg",
             imageAlt: "Expert barista crafting specialty drinks"
           }}
           animationType="slide-up"
